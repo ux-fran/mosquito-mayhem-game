@@ -11,6 +11,7 @@ This repository documents the creation of **Mosquito Mayhem**, my very first ful
 ---
 
 ## 🎮 Play the Game
+<img width="598" alt="splash screen Mosquito Mayhem" src="https://github.com/user-attachments/assets/679a0cd6-5479-4df4-a860-f649a2b248b5" />
 
 Check out **Mosquito Mayhem** here:  
 👉 [Play it on itch.io](https://fran43cg.itch.io/mosquito-mayhem)
