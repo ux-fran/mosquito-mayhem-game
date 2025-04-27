@@ -3,7 +3,7 @@
 🔙 _Back to my Blender projects main hub_: [Fran's Blender Projects Hub](https://github.com/ux-fran/blender-projects-main-hub-repo)
 
 _Project Status_: **Finished** 🎉  
-_Repository_: **[Mosquito Mayhem Game Jam Repository](https://github.com/ux-fran/mosquito-mayhem-repo)**  
+_Repository_: **[Mosquito Mayhem Game Jam Repository](https://github.com/ux-fran/mosquito-mayhem-game)**  
 _Project Progress_: **[Mosquito Mayhem Progress](https://github.com/users/ux-fran/projects/72/views/1)** 
 
 This repository documents the creation of **Mosquito Mayhem**, my very first full game jam experience! Built during the [Pirate Software Game Jam 16](https://itch.io/jam/pirate16) in just two weeks, Mosquito Mayhem is a chaotic 2D pixel platformer where **you are the weapon**—a mutated mosquito using its stinger to survive and explode. I created all the art in Blender, imported it into Unity, and collaborated with my talented game dev friend, who handled all the coding. This was a dream come true!
@@ -16,6 +16,8 @@ This repository documents the creation of **Mosquito Mayhem**, my very first ful
 Check out **Mosquito Mayhem** here:  
 👉 [Play it on itch.io](https://fran43cg.itch.io/mosquito-mayhem)
 
+Check out the Game Design Document here:
+👉 [GDD:](https://docs.google.com/document/d/1iQthQpjEFnFwvDuhqyYRSKBgyHUslFTf84P3flRDTWs/edit?usp=sharing)
 ---
 
 ## 🧩 Project Overview
@@ -51,7 +53,7 @@ Curious about how I got here? I shared my full journey in this blog post:
 ## 📌 What's Inside This Repository
 
 - **Project Progress**:
-  - Explore the [Backlog](https://github.com/users/ux-fran/projects/XX) for detailed steps or track my progress with the [Kanban Board (a.k.a. ToDo list)](https://github.com/users/ux-fran/projects/XX/views/2).
+  - Explore the [Backlog](https://github.com/users/ux-fran/projects/XX) for detailed steps or track my progress with the [Kanban Board (a.k.a. ToDo list)](https://github.com/users/ux-fran/projects/72/views/1).
 - **Key Milestones**:
   - Milestone breakdowns with links to specific tasks or achievements.
 - **Resources**:
