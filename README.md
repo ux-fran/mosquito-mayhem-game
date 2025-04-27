@@ -18,6 +18,7 @@ Check out **Mosquito Mayhem** here:
 
 Check out the Game Design Document here:
 👉 [GDD:](https://docs.google.com/document/d/1iQthQpjEFnFwvDuhqyYRSKBgyHUslFTf84P3flRDTWs/edit?usp=sharing)
+
 ---
 
 ## 🧩 Project Overview
