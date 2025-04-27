@@ -9,7 +9,6 @@ _Project Progress_: **[Mosquito Mayhem Progress](https://github.com/users/ux-fra
 This repository documents the creation of **Mosquito Mayhem**, my very first full game jam experience! Built during the [Pirate Software Game Jam 16](https://itch.io/jam/pirate16) in just two weeks, Mosquito Mayhem is a chaotic 2D pixel platformer where **you are the weapon**—a mutated mosquito using its stinger to survive and explode. I created all the art in Blender, imported it into Unity, and collaborated with my talented game dev friend, who handled all the coding. This was a dream come true!
 
 ## ❓ Questions?
-
 If you have any questions about this project, feel free to ask them in the [Q&A Discussion](https://github.com/ux-fran/mosquito-mayhem-game/discussions)! 💬
 
 ---
