@@ -17,7 +17,7 @@ Check out **Mosquito Mayhem** here:
 👉 [Play it on itch.io](https://fran43cg.itch.io/mosquito-mayhem)
 
 Check out the Game Design Document here:
-👉 [GDD:](https://docs.google.com/document/d/1iQthQpjEFnFwvDuhqyYRSKBgyHUslFTf84P3flRDTWs/edit?usp=sharing)
+👉 [GDD](https://docs.google.com/document/d/1iQthQpjEFnFwvDuhqyYRSKBgyHUslFTf84P3flRDTWs/edit?usp=sharing)
 
 ---
 
